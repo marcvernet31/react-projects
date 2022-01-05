@@ -20,3 +20,6 @@ Comples useState combinations, conditional CSS rendering for button styles
 
 ## 07: Slider
 Complicated CSS (review)
+
+## 08: LoremIpsum
+show text based on useState changed with a form, modify on form submit
