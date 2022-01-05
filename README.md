@@ -11,3 +11,6 @@ useState to modify page content, react-icons, displaying elements from a list wi
 
 ## 04: Accordeon
 show text and change buttons based on useState
+
+## 05: Restaurant
+Filer elements based on categories, dynamically create categories
