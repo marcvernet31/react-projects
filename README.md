@@ -14,3 +14,6 @@ show text and change buttons based on useState
 
 ## 05: Restaurant
 Filter elements based on categories, dynamically create categories
+
+## 06: Jobs
+Comples useState combinations, conditional CSS rendering for button styles
