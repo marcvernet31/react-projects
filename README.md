@@ -5,3 +5,6 @@ Css styles, reading local data from JSON
 
 ## 02: Tours
 useState, conditional rendering, Readmore/showless structure, loading screen logic, fetching data from a url api
+
+## 03: Reviews
+useState to modify page content, react-icons, displaying elements from a list with a useState index, randomness
