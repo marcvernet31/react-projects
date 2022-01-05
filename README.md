@@ -8,3 +8,6 @@ useState, conditional rendering, Readmore/showless structure, loading screen log
 
 ## 03: Reviews
 useState to modify page content, react-icons, displaying elements from a list with a useState index, randomness
+
+## 04: Accordeon
+show text and change buttons based on useState
