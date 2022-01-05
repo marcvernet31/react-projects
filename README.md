@@ -17,3 +17,6 @@ Filter elements based on categories, dynamically create categories
 
 ## 06: Jobs
 Comples useState combinations, conditional CSS rendering for button styles
+
+## 07: Slider
+Complicated CSS (review)
