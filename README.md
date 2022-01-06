@@ -23,3 +23,6 @@ Complicated CSS (review)
 
 ## 08: LoremIpsum
 show text based on useState changed with a form, modify on form submit
+
+## 09: Colors
+Dynaimc css styles, rgb colors, custom useEffect, timeout for showing components
